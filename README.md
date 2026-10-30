@@ -32,6 +32,17 @@ The driving data was collected by the author over a 30-minute recording session,
 
 The dataset is available on Kaggle: **[Dataset link to be added]**
 
+![Example training image from the CARLA camera](389325.png)
+
+Each dataset folder contains an images directory and a log.csv file that pairs each image with its steering value. An excerpt of log.csv looks like this:
+
+```csv
+image,steering
+388640.png, 0.019261997193098068
+388655.png, 0.011902821250259876
+388660.png, 0.00937462132424116
+```
+
 To use it, download the dataset and place it where the `models` and `main` are, then point `train.ipynb` to that folder.
 
 ---
