@@ -30,7 +30,7 @@ This folder contains the notebooks used to collect driving data, train a steerin
 
 The driving data was collected by the author over a 30-minute recording session, with camera images at a resolution of 1200 × 1000.
 
-The dataset is available on Kaggle: **[Dataset link to be added]**
+The dataset is available on Kaggle: **[will add it lately]**
 
 ![Example training image from the CARLA camera](389325.png)
 
