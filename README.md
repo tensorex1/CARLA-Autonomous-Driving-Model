@@ -32,7 +32,7 @@ The driving data was collected by the author over a 30-minute recording session,
 
 The dataset is available on Kaggle: **[Dataset link to be added]**
 
-To use it, download the dataset and place it in a folder that contains the `images` directory and `log.csv`, then point `train.ipynb` to that folder.
+To use it, download the dataset and place it where the `models` and `main` are, then point `train.ipynb` to that folder.
 
 ---
 
